@@ -1,0 +1,17 @@
+{
+  "compassionate": 2.5,
+  "neglected": -2.5,
+  "attentive": 1.8,
+  "dismissive": -2.0,
+  "overcrowded": -1.7,
+  "clean": 1.5,
+  "unsanitary": -2.3,
+  "respectful": 2.0,
+  "rushed": -1.5,
+  "gentle": 2.0,
+  "ignored": -2.2,
+  "quick": 1.5,
+  "reliable": 2.0,
+  "smelly": -2.0,
+  "slow": -1.5
+}
